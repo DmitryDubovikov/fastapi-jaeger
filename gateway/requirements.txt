@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aio-pika
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-jaeger
+pydantic
